@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/windows/stars.exe.dir/stars.cpp.o -o windows/stars.exe 

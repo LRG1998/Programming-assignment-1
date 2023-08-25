@@ -1,0 +1,4 @@
+/home/lowresgamr/Documents/Data Structures/Programming assignment 1/CMakeFiles/stars.dir
+/home/lowresgamr/Documents/Data Structures/Programming assignment 1/CMakeFiles/stars.exe.dir
+/home/lowresgamr/Documents/Data Structures/Programming assignment 1/CMakeFiles/edit_cache.dir
+/home/lowresgamr/Documents/Data Structures/Programming assignment 1/CMakeFiles/rebuild_cache.dir
