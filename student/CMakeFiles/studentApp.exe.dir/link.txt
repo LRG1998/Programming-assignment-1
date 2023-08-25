@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/studentApp.exe.dir/studentApp.cpp.o -o studentApp.exe 

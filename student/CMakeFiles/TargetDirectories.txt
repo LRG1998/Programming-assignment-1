@@ -1,4 +1,0 @@
-/home/lrg/Documents/data structures and algorithms/Programming-assignment-1/student/CMakeFiles/studentApp.dir
-/home/lrg/Documents/data structures and algorithms/Programming-assignment-1/student/CMakeFiles/studentApp.exe.dir
-/home/lrg/Documents/data structures and algorithms/Programming-assignment-1/student/CMakeFiles/edit_cache.dir
-/home/lrg/Documents/data structures and algorithms/Programming-assignment-1/student/CMakeFiles/rebuild_cache.dir
