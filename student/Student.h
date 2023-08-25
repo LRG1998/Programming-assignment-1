@@ -1,4 +1,3 @@
-#include <iostream>
 #include <string>
 
 
@@ -10,9 +9,8 @@ public:
     :name(studentName){
         setAverage(s1, s2, s3, s4, s5, s6, s7,s8,s9, s10);
     }
-    void Init(){
-        //Initialzer code to make sure the header is properly connected. 
-        std::cout<<"Initialized" << std::endl;
+    std::string getName(){
+        return name;
     }
     void setAverage(int SI1, int SI2, int SI3, int SI4, int SI5, int SI6, int SI7, int SI8, int SI9, int SI10){
         //if the scores are verified, they're added to the total, which get's factored into the average. 
