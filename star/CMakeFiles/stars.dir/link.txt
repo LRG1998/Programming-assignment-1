@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/stars.dir/stars.cpp.o -o stars 
